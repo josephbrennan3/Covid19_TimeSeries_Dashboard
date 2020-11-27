@@ -1,6 +1,6 @@
 ipywidgets
 pandas
-matplotlib.pyplot
+matplotlib
 datetime
 json
 IPython.display
