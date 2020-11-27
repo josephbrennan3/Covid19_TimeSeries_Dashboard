@@ -2,7 +2,5 @@ ipywidgets
 pandas
 matplotlib
 datetime
-json
-IPython.display
 uk_covid19
 voila
