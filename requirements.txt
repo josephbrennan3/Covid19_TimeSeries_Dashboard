@@ -1,5 +1,5 @@
 ipywidgets
-pandas as pd
+pandas
 matplotlib.pyplot
 datetime
 json
